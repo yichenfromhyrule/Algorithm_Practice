@@ -29,5 +29,5 @@ if __name__ == '__main__':
         {"left": 231, "top":219, "size": 25, "color": "pink"},
         {"left": 50, "top":12, "size": 20, "color": "blue"}
     ]
-    generateBubbles(1,bubbleList2)
+    generateBubbles(canvas,bubbleList2)
 
