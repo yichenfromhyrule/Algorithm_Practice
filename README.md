@@ -34,12 +34,6 @@ the cards face-up in as few turns as possible.
 
 ## Print_Triangle :star:
 The function printTriangle(n) can print an ascii art triangle out of asterisks based on the integer n. 
-Example: printTriangle(5)
-*
-**
-***
-**
-*
 
 ## Recurse_Binary_Tree :star:
 The function getInitialTeams(bracket) can take a tournament bracket and returns a list of all the teams that participanted in the tournament. 
