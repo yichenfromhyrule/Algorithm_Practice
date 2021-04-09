@@ -1,4 +1,3 @@
-# Decode Message with Uppercase Letters
 # author @Yichen
 
 def getBadEdge(g,limit):
