@@ -250,4 +250,5 @@ def week3Tests():
     testDrawGameOver()
 
 if __name__ == '__main__':
-    week1Tests()
+    testGetClickedCell()
+    testShipIsValid()
